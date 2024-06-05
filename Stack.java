@@ -27,7 +27,6 @@ class main {
         }
         System.out.println("Stack basindaki ben miyim : " + evetBenim);
 
-        //Vector sınıfından kalıtım alınan size komutu ile eleman sayısı alınabilir
         int ilkSize = s.size();
         System.out.println("Stack eleman sayisi : " + ilkSize);
 
